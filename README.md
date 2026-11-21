@@ -1,3 +1,4 @@
+The game has ended, unfortunately...
 
 ![Game Over](gameover.svg)
 <!--
